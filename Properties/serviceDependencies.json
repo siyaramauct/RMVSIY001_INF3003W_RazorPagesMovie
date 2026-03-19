@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:RMVSIY001_INF3003W_RazorPagesMovieContext"
+    }
+  }
+}

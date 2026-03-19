@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\migrations\\20260305132933_new_dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:migrations\\20260305132933_new_dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|c:\\users\\ramm1\\documents\\rmvsiy001_inf3003w_razorpagesmovie\\migrations\\20260305130458_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFBA69E-7450-4EB7-ABDC-EAF5F152B21B}|RMVSIY001_INF3003W_RazorPagesMovie.csproj|solutionrelative:migrations\\20260305130458_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:35:58.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-05T13:35:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260305132933_New_DataAnnotations.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Migrations\\20260305132933_New_DataAnnotations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260305132933_New_DataAnnotations.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Migrations\\20260305132933_New_DataAnnotations.cs",
+              "RelativeToolTip": "Migrations\\20260305132933_New_DataAnnotations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:29:33.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T13:15:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260305130458_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Migrations\\20260305130458_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260305130458_Rating.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Migrations\\20260305130458_Rating.cs",
+              "RelativeToolTip": "Migrations\\20260305130458_Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:04:58.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:02:29.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T12:58:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T12:57:53.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T12:55:57.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:37:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T12:21:11.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:16:20.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ramm1\\Documents\\RMVSIY001_INF3003W_RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T09:40:04.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
